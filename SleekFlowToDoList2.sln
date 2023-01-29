@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SleekFlowToDoList2", "SleekFlowToDoList2\SleekFlowToDoList2.csproj", "{95EBBD70-A7A8-436E-AD9A-3A591AE67180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95EBBD70-A7A8-436E-AD9A-3A591AE67180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95EBBD70-A7A8-436E-AD9A-3A591AE67180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95EBBD70-A7A8-436E-AD9A-3A591AE67180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95EBBD70-A7A8-436E-AD9A-3A591AE67180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86A02257-27B7-4C77-A025-365066A53213}
+	EndGlobalSection
+EndGlobal
